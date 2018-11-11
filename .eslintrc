@@ -1,0 +1,9 @@
+{
+    "parser": "babel-eslint",
+    "rules": {
+      "no-console": "off",
+      "complexity": ["error", 10],
+      "no-eq-null": "off",
+      "eqeqeq": "off"
+    }
+  }

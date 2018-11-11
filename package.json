@@ -7,7 +7,7 @@
     "build": "babel input.js -d output",
     "test-plugin": " node run.js input.js",
     "lint": "eslint index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
