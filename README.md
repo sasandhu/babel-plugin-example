@@ -7,3 +7,6 @@ Steps:
 3. run 'npm install'
 4. run 'npm run test'
 You will see 'Success!' on the terminal
+
+Modify the custom-plugin.js file
+To see the result run 'npm run test-plugin'
